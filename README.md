@@ -1,5 +1,5 @@
 # SQL-Databases-UniversityHomework
-HOMEWORK 1.1: MICROSOFT SQL
+
 It is considered a database that gathers and organizes information about branches,
 publishers, authors and, books. Each branch has a number that uniquely identifies the
 branch. In addition, it tracks the branch’s name, location, and number of employees. Each
@@ -13,7 +13,6 @@ publisher’ name and city.
 or NO
 6) Add the author and book information to the WROTE table
 7) Add the inventory information to the INVENTORY table
-HOMEWORK 1.2: MICROSOFT SQL - QUERIES
 Considering the homework 1 example it is required:
 8) List the name of each publisher located in New York
 9) List the name of each publisher not located in New York
@@ -37,7 +36,6 @@ has a book price of less than $15
 20) List the number of books published every year at the existing publishers.
 21) List the book code, book title, author’s name for a certain branch (name of the branch is passed as parameter)
 22)List the number of books written by a certain author (name of the branch/author is passed as parameter)
-HOMEWORK 1.3: MICROSOFT SQL - QUERIES
 Considering the homework 1 example it is required:
 23) List the book title for each book that has the type SFI and is published by Thames and
 Hudson
